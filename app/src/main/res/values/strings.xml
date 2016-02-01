@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">apaquett-FuelTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_view">EditViewActivity</string>
+    <string name="hello">Hello!</string>
+    <string name="clear">Clear?</string>
+    <string name="save">Save</string>
+</resources>
